@@ -27,3 +27,6 @@ upload ขึ้น youtube เป็น video ที่ดูได้สำห
 ส่ง link มาเป็น pull request
 
 
+![image](https://github.com/sucha312/Introduction-to-blynk/assets/115066208/b00f970b-b366-4585-a777-da7fab4efe33)
+
+ติดปัญหาเนื่องจากเชื่อม Blynk กับมือถือไม่ได้ 
